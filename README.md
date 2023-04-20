@@ -29,7 +29,7 @@ In this class, we will use the lessons from a previous class to understand the i
 ### [Modeling class 3](https://github.com/shhong/a310_cns_2023/tree/main/class_3) — April 6, 2023
 In this class, we will learn more about modeling active mechanisms. We will also discuss the basics of building network models and analyzing neural data.
 
-### [Modeling class 4](https://github.com/shhong/a310_cns_2023/tree/main/class_4) — March 20, 2023
+### [Modeling class 4](https://github.com/shhong/a310_cns_2023/tree/main/class_4) — April 20, 2023
 In the last class, we will go through the examples and use cases of network models.
 
 ## Homework
